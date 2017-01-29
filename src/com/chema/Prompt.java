@@ -13,6 +13,6 @@ public class Prompt {
         return scanner.nextLine();
     }
 
-    
+
 
 }
